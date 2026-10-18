@@ -1,4 +1,4 @@
-# AI/ML-Based Traffic Congestion Prediction and Smart Traffic Management
+# AI/ML-Based Traffic Congestion Prediction Using Lightweighted Urban Digital Twin
 
 ## Overview
 
